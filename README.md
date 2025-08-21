@@ -1,4 +1,5 @@
 🧠 Data Science Projects
+
 This repository contains several Data Science & Machine Learning projects covering Exploratory Data Analysis (EDA), Classification, Regression, and Natural Language Processing (NLP).
 
 📊 Projects
@@ -12,8 +13,8 @@ This repository contains several Data Science & Machine Learning projects coveri
 - Identifying patterns in behavior and wellbeing  
 - Data visualization for better understanding of mental health insights  
 
-🔗 [View on nbviewer (Recommended for Better Review)](https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/EDA%20-%20Mental%20Health%20Analysis.ipynb)  
-💻 [View on GitHub](https://github.com/Omidpour/My_Learning_Journey/blob/main/EDA%20-%20Mental%20Health%20Analysis.ipynb)
+<a href="https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/EDA%20-%20Mental%20Health%20Analysis.ipynb" target="_blank">📖 Open in nbviewer</a>  
+<a href="https://github.com/Omidpour/My_Learning_Journey/blob/main/EDA%20-%20Mental%20Health%20Analysis.ipynb" target="_blank">💻 Open in GitHub</a>
 
 ---
 
@@ -24,8 +25,8 @@ This repository contains several Data Science & Machine Learning projects coveri
 - Training multiple classification models  
 - Comparing performance and selecting the best model  
 
-🔗 [View on nbviewer (Recommended for Better Review)](https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Classification%20-%20Red%20Wine%20Quality%20Prediction.ipynb)  
-💻 [View on GitHub](https://github.com/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Classification%20-%20Red%20Wine%20Quality%20Prediction.ipynb)
+<a href="https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Classification%20-%20Red%20Wine%20Quality%20Prediction.ipynb" target="_blank">📖 Open in nbviewer</a>  
+<a href="https://github.com/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Classification%20-%20Red%20Wine%20Quality%20Prediction.ipynb" target="_blank">💻 Open in GitHub</a>
 
 ---
 
@@ -36,8 +37,8 @@ This repository contains several Data Science & Machine Learning projects coveri
 - Building regression models for prediction  
 - Evaluating performance and error analysis  
 
-🔗 [View on nbviewer (Recommended for Better Review)](https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Regression%20-%20Medical%20Expenses%20Prediction.ipynb)  
-💻 [View on GitHub](https://github.com/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Regression%20-%20Medical%20Expenses%20Prediction.ipynb)
+<a href="https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Regression%20-%20Medical%20Expenses%20Prediction.ipynb" target="_blank">📖 Open in nbviewer</a>  
+<a href="https://github.com/Omidpour/My_Learning_Journey/blob/main/EDA%20%26%20Regression%20-%20Medical%20Expenses%20Prediction.ipynb" target="_blank">💻 Open in GitHub</a>
 
 ---
 
@@ -48,5 +49,5 @@ This repository contains several Data Science & Machine Learning projects coveri
 - Building classification models to separate spam from ham  
 - Model evaluation with clear visualizations  
 
-🔗 [View on nbviewer (Recommended for Better Review)](https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/NLP%20-%20Spam%20vs%20Ham%20Classification.ipynb)  
-💻 [View on GitHub](https://github.com/Omidpour/My_Learning_Journey/blob/main/NLP%20-%20Spam%20vs%20Ham%20Classification.ipynb)
+<a href="https://nbviewer.org/github/Omidpour/My_Learning_Journey/blob/main/NLP%20-%20Spam%20vs%20Ham%20Classification.ipynb" target="_blank">📖 Open in nbviewer</a>  
+<a href="https://github.com/Omidpour/My_Learning_Journey/blob/main/NLP%20-%20Spam%20vs%20Ham%20Classification.ipynb" target="_blank">💻 Open in GitHub</a>
