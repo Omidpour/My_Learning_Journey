@@ -2,7 +2,7 @@
 
 This repository contains several **Data Science & Machine Learning projects** covering **Exploratory Data Analysis (EDA)**, **Classification**, **Regression**, and **Natural Language Processing (NLP)**.
 
---
+---
 
 ## 📊 Projects
 
@@ -14,7 +14,7 @@ This repository contains several **Data Science & Machine Learning projects** co
 * Identifying patterns in behavior and wellbeing
 * Data visualization for better understanding of mental health insights
 
---
+---
 
 ### 2️⃣ EDA & Classification - Red Wine Quality Prediction
 
@@ -24,7 +24,7 @@ This repository contains several **Data Science & Machine Learning projects** co
 * Training multiple classification models
 * Comparing performance and selecting the best model
 
---
+---
 
 ### 3️⃣ EDA & Regression - Medical Expenses Prediction
 
@@ -34,7 +34,7 @@ This repository contains several **Data Science & Machine Learning projects** co
 * Building regression models for prediction
 * Evaluating performance and error analysis
 
---
+---
 
 ### 4️⃣ NLP - Spam vs Ham Classification
 
@@ -44,4 +44,4 @@ This repository contains several **Data Science & Machine Learning projects** co
 * Building classification models to separate spam from ham
 * Model evaluation with clear visualizations
 
---
+---
